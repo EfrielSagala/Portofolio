@@ -1,0 +1,90 @@
+{
+    "main":{
+        "name":"Jhon Efriel Sagala",
+        "deskripsi":"saya siap dan kompeten dalam pengembangan Website",
+        "github":"https://github.com/EfrielSagala",
+        "project":"https://github.com/EfrielSagala/projectEfriel",
+        "linkedin":"https://www.linkedin.com/in/efriel-sagala-5049a322b/",
+        "bio":"saya Calon Presiden",
+        "profilpic":"profilpic.jpg",
+        "phone":"+6282164583995",
+        "email":"efrielsagala@gmail.com",
+        "resumeDownload":"cv/CV_Efriel.pdf",
+        "address":{
+            "street":"JL.H.Jamin N0.28 Kelapa Dua",
+            "city":"Depok",
+            "state":"Jawa barat",
+            "zip":"16951"
+        },
+        "contactMassage":"Contact Me",
+        "social":[
+            {
+                "name":"Instagram",
+                "url":"https://www.instagram.com/efrielsagala?igsh=MTE0ZGN4ZGY3eGJhYw==",
+                "className":"fa fa-instagram"
+            },
+            {
+                "name":"LinkedIn",
+                "url":"https://www.linkedin.com/in/efriel-sagala-5049a322b/",
+                "className":"fa fa-linkedin"
+            },
+            {
+                "name":"Github",
+                "url":"https://github.com/EfrielSagala",
+                "className":"fa fa-github"
+            }
+        ]
+    },
+    "resume":{
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school":"Universitas Gunadarma",
+                "degree":"Bachelor degree of Informatic",
+                "graduated":"2024"
+            },
+            {
+                "school":"SMK Yapim Taruna Merek",
+                "degree" : "Tehnik Komputer Jaringan",
+                "graduated" : "May 2020"
+            }
+        ],
+        "works":[
+            {
+               
+            }
+           
+        ],
+        "skills":[
+            {
+                "name" : "Java",
+                "level" : "40%"
+            },
+            {
+                "name" : "Html",
+                "level" : "50%"
+            },
+            {
+                "name" : "Css",
+                "level" : "50%"
+
+            },
+            {
+                "name":"Javascript",
+                "level":"30%"
+            },
+            {
+                "name":"Bootstrap",
+                "level":"40%"
+            },
+            {
+                "name":"ReactJS",
+                "level":"50%"
+            }
+            
+           
+        ]
+    
+   
+    }
+}
